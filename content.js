@@ -5,6 +5,7 @@ var sideMenuLinks = document.getElementsByTagName("ytd-guide-entry-renderer");
 var sideRecommendedSection = document.getElementsByTagName(
   "ytd-compact-video-renderer"
 );
+
 var comments = document.getElementsByTagName("ytd-comments");
 
 var hideAllVideos = function () {
