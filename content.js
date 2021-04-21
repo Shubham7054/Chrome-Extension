@@ -6,6 +6,7 @@ var sideRecommendedSection = document.getElementsByTagName(
   "ytd-compact-video-renderer"
 );
 
+
 var comments = document.getElementsByTagName("ytd-comments");
 
 var hideAllVideos = function () {
